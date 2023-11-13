@@ -1,8 +1,8 @@
 import React from 'react';
 import {Route, Routes } from "react-router-dom";
 import TodoList from './components/TodoList';
-import Login from './components/login';
-import Register from './components/register';
+import Login from './components/Login';
+import Register from './components/Register';
 
 const App = () => {
   return (
